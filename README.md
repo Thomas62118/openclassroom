@@ -1,7 +1,6 @@
 # openclassroom
-exo openclassroom
+exo OpenClassroom
 
-Bienvenu dans l'exercice openclassroom sur Git/Github.
+Bienvenu dans l'exercice OpenClassroom sur Git/Github.
 
-Voici mon projet pour l'exercice d'openclassroom
-
+Voici mon projet pour l'exercice d'OpenClassroom.
